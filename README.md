@@ -1,8 +1,7 @@
-The Android Custom XML Document Reader <br />
-This is an custom format of XML document. <br />
+﻿Published by Natthapon Pinyo
 
-This project was using custom XML document from the following link: <br />
-http://www.iamnbty.com/android/verbal.xml <br />
+Email: cs.mfu.nbty@hotmail.com
 
-by Natthapon Pinyo <br />
-http://www.iamnbty.com 
+Facebook: http://www.facebook.com/iamnbty/
+
+YouTube: http://www.youtube.com/iamnbtyc/
